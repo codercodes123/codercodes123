@@ -49,8 +49,7 @@ I’m committed to strengthening my DSA skills—for Flipkart GRiD and SDE roles
 ---
 
 ## 📫 Reach Me
-- 📧 Email: apjain2004@gmail.com  
-- 💼 LinkedIn: [Abhishek Jain](https://www.linkedin.com/in/abhishek-jain-a914a52b0/)  
+- 📧 Email: apjain2004@gmail.com   
 - 💻 LeetCode: [apjain2004](https://leetcode.com/u/apjain2004)  
 - 🏅 HackerRank: [apjain2004](https://www.hackerrank.com/profile/apjain2004)
 

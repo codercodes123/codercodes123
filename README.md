@@ -41,7 +41,7 @@
 
 
 ## 🌟 Achievements & Learning Journey
-- 🥇 **Finalist** at **Smart India Hackathon 2024** — India’s largest innovation contest (top few hundred teams across 86,000+ nationwide registrations) 
+- 🥇 **Finalist** at **Smart India Hackathon 2024** — India’s largest innovation contest (top few hundred teams across 86,000+ nationwide registrations)-SIH1751(Team UrjaGanga)
 - 🎯 Currently mastering **Data Structures & Algorithms** — solving LeetCode problems daily
 - 🛠️ Exploring **MERN Stack**, soon building full-stack web apps
 ## 👉 What I’m Working On

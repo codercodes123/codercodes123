@@ -44,7 +44,7 @@
 - 🎯 Currently mastering **Data Structures & Algorithms** — solving LeetCode problems daily
 - 🛠️ Exploring **MERN Stack**, soon building full-stack web apps
 ## 👉 What I’m Working On
-I’m committed to strengthening my DSA skills—for Flipkart GRiD and SDE roles—and building MERN applications alongside.
+I’m committed to strengthening my DSA skills—for SDE roles—and building MERN applications alongside.
 
 ---
 

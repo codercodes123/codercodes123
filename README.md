@@ -61,7 +61,7 @@ I’m committed to strengthening my DSA skills—for SDE roles—and building ME
 ---
 
 ## 🛠️ What’s Next
-- Continue solving DSA problems **daily**, aiming for 2–3 per week  
+- Continue solving DSA problems **daily**, aiming for 2–3 per day  
 - Add complexity analysis and test case notes to GitHub repo  
 - Build a basic MERN project after hitting 20 DSA solutions  
 

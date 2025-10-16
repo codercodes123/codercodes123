@@ -10,7 +10,7 @@
 
 ## 🌱 Currently Learning
 - **Data Structures & Algorithms** — practicing with LeetCode & GitHub  
-- **MERN Stack** — continuing once DSA goals are on track
+- **MERN Stack** — in Progress
 
 ---
 

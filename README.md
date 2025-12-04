@@ -10,7 +10,7 @@
 
 ## 🌱 Currently Learning
 - **Data Structures & Algorithms** — practicing with LeetCode & GitHub  
-- **MERN Stack** — in Progress
+- **MERN Stack** — Deep Diving to Intergrate AI into Websites 
 
 ---
 

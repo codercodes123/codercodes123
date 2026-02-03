@@ -46,10 +46,8 @@
 
 ## 🌟 Achievements & Learning Journey
 - 🥇 **Finalist** at **Smart India Hackathon 2024** — India’s largest innovation contest (top few hundred teams across 86,000+ nationwide registrations)-SIH1751(Team UrjaGanga)
-- 🎯 Currently mastering **Data Structures & Algorithms** — solving LeetCode problems daily
 - 🛠️ Exploring **MERN Stack**, soon building full-stack web apps
-## 👉 What I’m Working On
-I’m committed to strengthening my DSA skills—for SDE roles—and building MERN applications alongside.
+
 
 ---
 
@@ -64,12 +62,6 @@ I’m committed to strengthening my DSA skills—for SDE roles—and building ME
 ![Coding GIF](https://media.giphy.com/media/jfI9JVni87l7a/giphy.gif)
 
 ---
-
-## 🛠️ What’s Next
-- Continue solving DSA problems **daily**, aiming for 2–3 per day  
-- Add complexity analysis and test case notes to GitHub repo  
-- Build a basic MERN project after hitting 20 DSA solutions  
-
 ---
 
 ## 📈 GitHub Stats  

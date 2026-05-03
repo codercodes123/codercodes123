@@ -94,7 +94,7 @@ Node/Express APIs, and MongoDB for data management.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codercodes123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codercodes123&theme=radical" alt="Streak Stats" />
 </p>
 
